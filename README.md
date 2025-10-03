@@ -16,3 +16,6 @@ View my notebook with detailed steps here: [2_Skills_Count.ipynb](Project/2_Skil
 
 ## 3. How well do jobs and skills pay for Data Analysts in Germany?
 ![Visualisation for salary distribution by job title in Germany](Images/yearly%20salary%20distribution.png)
+
+## Highest Paying Skills vs Most Demanded Skills for Data Analysts in Germany
+![Visualisation for highest paying skills vs most demanded skills for Data Analysts in Germany](Images\Median%20Salary%20Vs%20Skill.png)
